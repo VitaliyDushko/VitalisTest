@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthenticationServer", "Aut
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BooksStore", "BooksStore\BooksStore.csproj", "{9F233ED3-F724-4F9C-838C-F392B9540ABC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStoreCLTool", "BookStoreCLTool\BookStoreCLTool.csproj", "{BC852EF6-2C6A-47BF-B317-885AAF049B24}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9F233ED3-F724-4F9C-838C-F392B9540ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F233ED3-F724-4F9C-838C-F392B9540ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F233ED3-F724-4F9C-838C-F392B9540ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC852EF6-2C6A-47BF-B317-885AAF049B24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC852EF6-2C6A-47BF-B317-885AAF049B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC852EF6-2C6A-47BF-B317-885AAF049B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC852EF6-2C6A-47BF-B317-885AAF049B24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
