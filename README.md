@@ -13,4 +13,5 @@ Solution contains 4 projects:
 2. Authentication Server and Book Store app urls are configured in launchSettings.json.
 3. Make sure that "AuthenticationServerEndpoint" and "BookStoreApiEndpoint" properties of appsettings.json of Book Store, Book Store MVC client and Book Store CL Tool point to the correct endpoints
 4. Launch Authentication Server and Book Store to work with api through MVC client or cl tool. 
+5. Create a user on Authentication server to address Api through MVC client
 
