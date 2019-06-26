@@ -124,5 +124,11 @@
     </None>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BookStoreUtilities\BookStoreUtilities.csproj">
+      <Project>{50ce321c-7f14-40db-9f8b-6c11f48ddd11}</Project>
+      <Name>BookStoreUtilities</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
